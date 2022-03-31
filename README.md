@@ -1,1 +1,2 @@
 # odin-recipes
+This current project is to make a website highlighting some recipes. Some skills I will have demostrated is the ability to creat git commits as I work & create a website with HTML to start
